@@ -1,5 +1,5 @@
-# Desenvolvimento-Full-Stack
-Disponibilizarei aqui todas as minhas atividades referentes a minha graduação em Desenvolvimento Full Stack.
+# ADS
+Disponibilizarei aqui todas as minhas atividades referentes a minha graduação em ADS.
 Os arquivos descritos a seguir são referentes a disciplina Logica, Algoritmos e Programacao de Computadores.
 
 estruturas_condicao1.py - Microatividade 1: Descrever a utilização das estruturas de condição if e else em Python.
